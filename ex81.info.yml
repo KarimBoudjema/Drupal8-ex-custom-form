@@ -1,0 +1,5 @@
+name: 'ex81'
+type: module
+description: 'Example of a simple custom form'
+core: 8.x
+package: 'Custom'
